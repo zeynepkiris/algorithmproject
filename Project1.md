@@ -10,8 +10,14 @@
 
 ## Big-O gösterimi
 ### O (n^2)
-n (n-1) (n-2) ... 1 = n.(n+1)/2 = n^2+n/2
+n (n-1) (n-2) ... 1 = n*(n+1)/2 = n^2+n/2
 
+## Time Complexity
+### Average case:  
+### Worst case: 
+### Best case: 
+ 
+## Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
 
 
 
