@@ -7,6 +7,8 @@
 - 1'in solunda 0, sağında 3 bulunur. 
 - 3'ün solunda 2, sağında 4 bulunur. 
 - 8'in sağında 9 bulunur.
+
+
 ![binaryresim](binary.png)
 
 [Patikadev](https://www.patika.dev/tr)
