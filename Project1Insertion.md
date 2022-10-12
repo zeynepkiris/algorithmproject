@@ -1,4 +1,4 @@
-1# INSERTION SORT
+# Insertion Sort Projesi
 ## Dizinin Insertion Sort a göre aşamaları
 ### [22,27,16,2,18,6]
 * [**2**,27,16, **22**, 18,6]
@@ -13,7 +13,7 @@
 n (n-1) (n-2) ... 1 = n*(n+1)/2 = n^2+n/2
 
 ## Time Complexity
-Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
+Average case: Aradığımız sayının ortada olması{O(n^2) Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
  
 ## Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
 Avarege case kapsamına girer.
