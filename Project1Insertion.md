@@ -1,4 +1,4 @@
-1# INSERTION SORT
+# Insertion Sort Projesi
 ## Dizinin Insertion Sort a göre aşamaları
 ### [22,27,16,2,18,6]
 * [**2**,27,16, **22**, 18,6]
